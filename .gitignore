@@ -1,6 +1,11 @@
 # Operating System Files
 .DS_Store
 .DS_Store?
+.ds_store
+ds_store
+**/.DS_Store
+**/.ds_store
+**/ds_store
 ._*
 .Spotlight-V100
 .Trashes
