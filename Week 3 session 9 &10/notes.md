@@ -2,7 +2,7 @@
 
 ---
 
-## 1. RECAP: Last Session, in 60 Seconds
+## 1. RECAP:
 
 * One real strategic bet plays out at all three levels: corporate, SBU, functional.
 * Reliance's telecom entry was corporate; Jio pricing was SBU; the network build was functional.
@@ -10,13 +10,11 @@
 
 ---
 
-## 2. A Story to Start: The Phone That Ruled India, Then Nearly Vanished (Nokia)
+## 2. The Phone That Ruled India, Then Nearly Vanished (Nokia)
 
 * **Around 2009**: Nokia commands roughly 60% of India's mobile phone market — the default brand in nearly every pocket.
 * **The Signal It Missed**: As Android-powered touchscreen smartphones began reshaping the market, Nokia stayed loyal to its own ageing software instead of reading where customers were clearly heading.
 * **A Few Years Later**: Nokia's share collapsed as customers moved to Android phones — including budget Indian brands — and its handset business was eventually sold off entirely.
-
-> *History based on widely documented accounts of Nokia's decline in India and globally (post-2009).*
 
 ---
 
@@ -31,7 +29,7 @@
 
 ---
 
-## 4. Two Directions to Look: Scanning Outward vs. Scanning Inward
+## 4. Scanning Outward vs. Scanning Inward
 
 > **Real scanning always looks both ways at once.**
 
@@ -66,23 +64,13 @@
 
 ---
 
-## 8. Back to Priya's Momos: Scanning Her Own Market
+## 8. Scanning Her Own Market
 
 * **Outward**: Two new food-delivery apps have started covering her college's neighbourhood this year.
 * **Inward**: She's never tracked how many of her customers actually order through those apps versus walking up to her cart.
 * **Her Forecast**: If delivery apps keep growing, cart-only sales may plateau within a year — worth watching closely, not ignoring.
 
 > *“Priya's Momos” is a fictional business created for classroom illustration only.*
-
----
-
-## 9.What Signals Are You Missing?
-
-Think about a business you know well — a family shop, a college canteen, anything:
-
-* What outward signal might they be ignoring right now?
-* What inward weakness might they be avoiding looking at honestly?
-* If current trends continue for 2 more years, what happens to them?
 
 ---
 

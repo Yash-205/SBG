@@ -2,25 +2,15 @@
 
 ---
 
-## 1. RECAP: Last Session, in 60 Seconds
-
-* Environmental scanning means watching for signals of change before they force your hand.
-* Scan both outward (the world) and inward (your own capabilities).
-* Nokia's decline signals were visible for years before the market share actually collapsed.
-
----
-
-## 2. A Story to Start: A Yoga Guru Shakes Up the Shampoo Aisle (Patanjali)
+## 1. A Story to Start: A Yoga Guru Shakes Up the Shampoo Aisle (Patanjali)
 
 * **The Old Guard**: For decades, giants like Hindustan Unilever dominated Indian shelves — soaps, shampoos, toothpaste — with few serious new challengers.
 * **The New Entrant**: Patanjali, built around yoga guru Baba Ramdev's brand and an Ayurvedic, “swadeshi” positioning, entered FMCG and grew rapidly, pressuring established players on price and “natural” positioning.
 * **The Lesson**: An industry that looked stable for decades could still be disrupted by a new entrant nobody in the boardroom had seriously modeled.
 
-> *History based on widely documented accounts of Patanjali's entry into the Indian FMCG market.*
-
 ---
 
-## 3. Core Concept: The Porter’s Five Forces of Market
+## 2. Core Concept: The Porter’s Five Forces of Market
 
 * **Threat of New Entrants**: How easily can a new player join and compete?
 * **Bargaining Power of Suppliers**: How much control a supplier has to control the supply of vital goods and services to a business?
@@ -30,7 +20,7 @@
 
 ---
 
-## 4. Force by Force: The Industry vs. Patanjali's Moves
+## 3. Force by Force: The Industry vs. Patanjali's Moves
 
 ### Force 1: Threat of New Entrants
 
@@ -63,7 +53,7 @@
 
 ---
 
-## 6. Back to Bonsho's Momos: Five Forces for a Momo Cart
+## 4. Back to Bonsho's Momos: Five Forces for a Momo Cart
 
 * **Threat of New Entrants**: **HIGH** — Low startup costs and simple recipe requirements.
 * **Industry Rivalry**: **HIGH** — Intense price competition and slim profit margins.
@@ -73,7 +63,7 @@
 
 ---
 
-## 7. Why You Must Understand Your Five Forces
+## 5. Why You Must Understand Your Five Forces
 
 1. A category with weak forces rewards even average execution; a category with strong forces punishes even brilliant execution.
 2. Investors will ask about your competitive structure — not just your product.
@@ -81,13 +71,13 @@
 
 ---
 
-## 8. Blue Ocean Strategy
+## 6. Blue Ocean Strategy
 
 * Creating new, uncontested market spaces — **“blue oceans”** — rather than competing fiercely in existing, saturated industries — **“red oceans”**.
 
 ---
 
-## 9. SWOT Analysis
+## 7. SWOT Analysis
 
 ### A Story to Start: Boncho’s Momo Finally Writes Down Her Honest List
 
@@ -131,7 +121,7 @@ After a rough week — a competitor's cart opened nearby, and she ran out of oni
 
 ---
 
-## 10. Macro Environment: The PESTEL Framework
+## 8. Macro Environment: The PESTEL Framework
 
 * Six macro-environmental forces bigger than any one industry — that shape what's possible for every business at once, whether they see it coming or not.
 
@@ -146,7 +136,7 @@ After a rough week — a competitor's cart opened nearby, and she ran out of oni
 
 ---
 
-## 11. Case Study: The Night India's Cash Disappeared (Demonetization — Nov 8, 2016)
+## 9. Case Study: The Night India's Cash Disappeared (Demonetization — Nov 8, 2016)
 
 ### Lessons from Demonetization for Bonsho (Opening Jan 2017):
 
@@ -159,7 +149,7 @@ After a rough week — a competitor's cart opened nearby, and she ran out of oni
 
 ---
 
-## 12. PESTEL Crisis Scenarios: 10 Business Cases
+## 10. PESTEL Crisis Scenarios: 10 Business Cases
 
 | Team              | Business                         | The Crisis Scenario                                                                                            |
 | :---------------- | :------------------------------- | :------------------------------------------------------------------------------------------------------------- |
@@ -181,7 +171,7 @@ After a rough week — a competitor's cart opened nearby, and she ran out of oni
 
 ---
 
-## 13. Summary: Key Takeaways from Today
+## 11. Summary: Key Takeaways from Today
 
 * **Five Forces**: Entrants, buyers, suppliers, substitutes, rivalry — together decide a category's real profitability. Substitutes are the force most often missed — watch it hardest.
 * **Patanjali**: Proved that even decades-old, stable-looking industries can face a serious new entrant.
@@ -191,7 +181,7 @@ After a rough week — a competitor's cart opened nearby, and she ran out of oni
 
 ---
 
-## 14. Term of the Day: Rasputitsa
+## 12. Term of the Day: Rasputitsa
 
 * **Rasputitsa**: The seasonal mud periods that historically immobilized entire armies.
 * In business: Macroeconomic, regulatory, or environmental conditions so severe that normal operations ground to a complete standstill.

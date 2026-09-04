@@ -25,6 +25,8 @@ Activities that touch the product directly:
 * **Marketing & Sales**: Convincing people to buy.
 * **Aftersales**: Supporting the customer after the sale.
 
+> **IOOMA**
+
 ---
 
 ## 3. Support Activities
@@ -35,6 +37,8 @@ Activities that hold everything up:
 * **Technology Development**: Improving how things get done.
 * **Human Resource Management**: Hiring, training, and keeping good people.
 * **Infrastructure**: The systems that hold everything together.
+
+> **PTHI**
 
 > *Support activities don’t deal with the product directly — but without them, the primary activities fall apart.*
 
@@ -128,9 +132,3 @@ A deadlock situation where a player is legally obligated to make a move, but eve
 * Hero Cycles built a world-record business by controlling one link in the chain better than rivals.
 
 ---
-
-## 12. References & Next Session
-
-* **Required Reading**: A. Nag — *Strategic Management: Analysis, Implementation and Control*, Ch. 5 & 7.
-* **Case & History Sources**: Case: Hero Cycles (Value Chain), Sun Tzu — *The Art of War*, Ch. II.
-* **Term for Next Session**: *Pyrrhic Victory*.
